@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  VirtualTrainr
+
+  Created by Mark Meritt on 2017-06-18.
+  Copyright © 2017 Apptist. All rights reserved.
+*/
+
+"Login" = "S'identifier";
+"Let's Get Started" = "Commençons";
+"GET IN THE SHAPE OF YOUR LIFE" = "ENTRE LA FORME DE VOTRE VIE";
+"Select Language" = "Choisir la langue";
+"English" = "Anglais";
+"French" = "Français";
+"Spanish" = "Espanol";
+"German" = "Allemand";
+"Chinese" = "Chinois";
